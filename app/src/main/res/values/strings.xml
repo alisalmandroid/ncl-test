@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NCL_TEST</string>
+    <string name="no_internet">Network Problem!</string>
+</resources>
